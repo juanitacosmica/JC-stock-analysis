@@ -27,9 +27,9 @@ Refactoring the code allowed an improvement of 82% for the 2017 analysis, and, 7
 
 * *Before refactoring* *
 
-![2018_Result_before_Refactoring](/Resources/2018_Result_before_Refactoring)
+![2018_Result_before_Refactoring](/Resources/2018_Result_before_Refactoring.png)
 
-![2017_Result_before_Refactoring](/Resources/2017_Result_before_Refactoring)
+![2017_Result_before_Refactoring](/Resources/2017_Result_before_Refactoring.png)
 
 * *After refactoring* *
 
